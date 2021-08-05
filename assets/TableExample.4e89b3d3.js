@@ -1,1 +1,0 @@
-import{_ as s}from"./CsLabel.edf3fe91.js";import{_ as a}from"./CsTable.e949bc08.js";import{o as e,c as o,g as b,F as r}from"./vendor.ba9b2db9.js";const t={setup:t=>(t,f)=>(e(),o(r,null,[b(s,{label:"基本用法"}),b(a)],64)),__scopeId:"data-v-31beccef"};export default t;
