@@ -1,0 +1,1 @@
+import{p as a,a as s,o as t,c as d,d as e,t as c,O as n}from"./vendor.87f8fd73.js";a("data-v-63cb808c");const o=e("h2",null,"! ERROR !",-1);s();const l={setup:a=>(n(),(a,s)=>(t(),d("div",null,[e("div",{style:{"text-align":"center"}},[e("span",{id:"error-link"},c("404")),o])]))),__scopeId:"data-v-63cb808c"};export default l;
