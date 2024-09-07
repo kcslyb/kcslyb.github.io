@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as _,g as e}from"./bae183dd.js";const n={},c={class:"not-fount-box"};function a(r,o){return t(),_("div",c,o[0]||(o[0]=[e("div",{class:"content"},[e("span",{id:"error-link"},"404"),e("h2",null,"! ERROR !")],-1)]))}const l=s(n,[["render",a],["__scopeId","data-v-c45b3430"]]);export{l as default};
